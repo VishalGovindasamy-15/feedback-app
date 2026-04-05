@@ -134,7 +134,7 @@ Runs:
 ### 1 Clone Repository
 
 ```bash
-git clone https://github.com/your-username/feedback-app.git
+git clone https://github.com/VishalGovindasamy-15/feedback-app.git
 cd feedback-app
 ```
 
